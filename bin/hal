@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
+
 composify nocarrier/hal "0.9.*"
